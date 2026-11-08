@@ -4,7 +4,6 @@
 
 # Hey, I'm Arlando
 
-**Developer · Builder · Lifelong Learner**
 
 I like turning my stupid ideas into projects and learning by building them.
 

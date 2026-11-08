@@ -60,7 +60,7 @@ I spend most of my time around backend development, databases, desktop apps, and
 
 <div align="center">
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/justmearlandolol?tab=repositories&language=typescript) [Go to language](https://github.com/justmearlandolol?tab=repositories&language=typescript)
+[Go to language][![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/justmearlandolol?tab=repositories&language=typescript)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=justmearlandolol&theme=github-dark-blue&hide_border=true)
 

@@ -2,11 +2,11 @@
 
 <div align="center">
 
-# Hey, I'm Arlando 👋
+# Hey, I'm Arlando 
 
 **Developer · Builder · Lifelong Learner**
 
-I like turning random ideas into projects and learning by building them.
+I like turning my stupid ideas into projects and learning by building them.
 
 [![GitHub](https://img.shields.io/badge/GitHub-justmearlandolol-181717?style=flat-square&logo=github)](https://github.com/justmearlandolol)
 [![Website](https://img.shields.io/badge/Chiroot-Visit-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.chiroot.my.id)

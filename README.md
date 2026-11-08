@@ -58,14 +58,7 @@ I spend most of my time around backend development, databases, desktop apps, and
 
 ## GitHub Stats
 
-<div align="center">
 
-[MY go to language ]
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/justmearlandolol?tab=repositories&language=typescript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GitHub Streak](https://streak-stats.demolab.com?user=justmearlandolol&theme=github-dark-blue&hide_border=true)
-
-</div>
 
 <div align="center">
 

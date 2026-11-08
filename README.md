@@ -53,7 +53,7 @@ I spend most of my time around backend development, databases, desktop apps, and
 | **Chiroot** | A music player project with a distinctive listening experience. | [View repo](https://github.com/justmearlandolol/Chiroot-Website) |
 | **GameShelf** | A personal library to organize and track games. | [View repo](https://github.com/justmearlandolol/Gameshelf) |
 | **Forge** | Personal fitness | [View repo](https://github.com/justmearlandolol/Forge) |
-| **EnglishPRO** | An English learning project. | [View repo](https://github.com/justmearlandolol/EnglishPRO) |
+| **Arlando** |MY Personal website. | [View repo](https://github.com/justmearlandolol/personal-website) |
 | **Learning-Cpp** | A place for my C++ learning exercises. | [View repo](https://github.com/justmearlandolol/Learning-Cpp) |
 
 ## GitHub Stats
@@ -62,7 +62,7 @@ I spend most of my time around backend development, databases, desktop apps, and
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justmearlandolol&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justmearlandolol&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=justmearlandolol&theme=github-dark-blue&hide_border=true)
 

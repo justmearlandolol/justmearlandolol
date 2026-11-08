@@ -60,7 +60,6 @@ I spend most of my time around backend development, databases, desktop apps, and
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justmearlandolol&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=justmearlandolol&theme=github-dark-blue&hide_border=true)
 

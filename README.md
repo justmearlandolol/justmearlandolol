@@ -27,7 +27,6 @@ I spend most of my time around backend development, databases, desktop apps, and
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -53,8 +52,7 @@ I spend most of my time around backend development, databases, desktop apps, and
 | --- | --- | --- |
 | **Chiroot** | A music player project with a distinctive listening experience. | [View repo](https://github.com/justmearlandolol/Chiroot-Website) |
 | **GameShelf** | A personal library to organize and track games. | [View repo](https://github.com/justmearlandolol/Gameshelf) |
-| **Forge** | An experimental web project. | [View repo](https://github.com/justmearlandolol/Forge) |
-| **GitCode** | An authenticator-related web project. | [View repo](https://github.com/justmearlandolol/GitCode) |
+| **Forge** | Personal fitness | [View repo](https://github.com/justmearlandolol/Forge) |
 | **EnglishPRO** | An English learning project. | [View repo](https://github.com/justmearlandolol/EnglishPRO) |
 | **Learning-Cpp** | A place for my C++ learning exercises. | [View repo](https://github.com/justmearlandolol/Learning-Cpp) |
 

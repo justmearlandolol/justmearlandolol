@@ -1,4 +1,4 @@
-<!-- Profile README for justmearlandolol -->
+<!-- Profile README for @justmearlandolol -->
 
 <div align="center">
 
@@ -6,10 +6,10 @@
 
 **Developer · Builder · Lifelong Learner**
 
-I turn random ideas into things people can actually use.
+I like turning random ideas into projects and learning by building them.
 
 [![GitHub](https://img.shields.io/badge/GitHub-justmearlandolol-181717?style=flat-square&logo=github)](https://github.com/justmearlandolol)
-[![Personal Website](https://img.shields.io/badge/Website-Visit-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.chiroot.my.id)
+[![Website](https://img.shields.io/badge/Chiroot-Visit-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://www.chiroot.my.id)
 
 </div>
 
@@ -30,6 +30,8 @@ I spend most of my time around backend development, databases, desktop apps, and
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Backend & Database**
 
@@ -37,11 +39,9 @@ I spend most of my time around backend development, databases, desktop apps, and
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Tools & Platforms**
+**Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -49,20 +49,20 @@ I spend most of my time around backend development, databases, desktop apps, and
 
 ## Featured Projects
 
-| Project | Description | Repository |
+| Project | About | Repository |
 | --- | --- | --- |
-| **Chiroot** | A music player project focused on a distinctive listening experience. | [View](https://github.com/justmearlandolol/Chiroot-Website) |
-| **GameShelf** | A personal library to organize and track games. | [View](https://github.com/justmearlandolol/Gameshelf) |
-| **Forge** | An experimental web project. | [View](https://github.com/justmearlandolol/Forge) |
-| **GitCode** | An authenticator-related web project. | [View](https://github.com/justmearlandolol/GitCode) |
-| **EnglishPRO** | An English learning project. | [View](https://github.com/justmearlandolol/EnglishPRO) |
-| **ArlSpotify** | An experimental music web project. | [View](https://github.com/justmearlandolol/ArlSpotify) |
+| **Chiroot** | A music player project with a distinctive listening experience. | [View repo](https://github.com/justmearlandolol/Chiroot-Website) |
+| **GameShelf** | A personal library to organize and track games. | [View repo](https://github.com/justmearlandolol/Gameshelf) |
+| **Forge** | An experimental web project. | [View repo](https://github.com/justmearlandolol/Forge) |
+| **GitCode** | An authenticator-related web project. | [View repo](https://github.com/justmearlandolol/GitCode) |
+| **EnglishPRO** | An English learning project. | [View repo](https://github.com/justmearlandolol/EnglishPRO) |
+| **Learning-Cpp** | A place for my C++ learning exercises. | [View repo](https://github.com/justmearlandolol/Learning-Cpp) |
 
 ## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justmearlandolol&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justmearlandolol&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justmearlandolol&layout=compact&theme=github_dark&hide_border=true)
 
@@ -70,10 +70,11 @@ I spend most of my time around backend development, databases, desktop apps, and
 
 </div>
 
-## Connect
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justmearlandolol)
-[![Website](https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.chiroot.my.id)
+[**Explore all my repositories →**](https://github.com/justmearlandolol?tab=repositories)
+
+</div>
 
 ---
 

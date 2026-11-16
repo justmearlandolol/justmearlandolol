@@ -75,5 +75,6 @@ I spend most of my time around backend development, databases, desktop apps, and
 <div align="center">
 
 *Made with curiosity and a lot of commits.*
+*I suck at frontend design*
 
 </div>
